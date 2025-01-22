@@ -25,14 +25,14 @@ carrinho = [
     {"nome": "Mochila de Capivara", "quantidade": 5, "preco_unitario": 120.00}
 ]
 
----
+-
 ### Remover o Primeiro Item 🗑️
 
 ### O que aconteceu? 🤔
 
 Durante nossa aventura de compras, percebemos que adicionamos o primeiro item **por engano**. Talvez tenha sido o entusiasmo de ver tantas promoções, mas agora é hora de corrigir isso e remover o item errado do nosso carrinho!
 
----
+-
 
 ### Passos para Remover o Primeiro Item:
 
