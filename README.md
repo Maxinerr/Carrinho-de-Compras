@@ -18,6 +18,7 @@ Criar uma lista composta por vários **dicionários** (`dict`). Cada dicionário
 
 ### Exemplo:
 ```python
+
 carrinho = [
     {"nome": "Calça Bege", "quantidade": 3, "preco_unitario": 52.50},
     {"nome": "Chapéu de Marinheiro", "quantidade": 10, "preco_unitario": 42.10},
