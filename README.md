@@ -24,7 +24,9 @@ carrinho = [
     {"nome": "Chapéu de Marinheiro", "quantidade": 10, "preco_unitario": 42.10},
     {"nome": "Mochila de Capivara", "quantidade": 5, "preco_unitario": 120.00}
 ]
-## Remover o Primeiro Item 🗑️
+
+---
+### Remover o Primeiro Item 🗑️
 
 ### O que aconteceu? 🤔
 
